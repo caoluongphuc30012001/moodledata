@@ -1,0 +1,210 @@
+2.4. On the Carriers and Coolers worksheet, expand the chart data range to include the rest of the rows in the table
+A. Chọn sheet Carriers and Coolers -> chọn đồ thị -> chọn Select Data -> tại mục Chart data range, chỉnh $D$9 thành $D$19
+B. Chọn sheet Carriers and Coolers -> chọn Design -> chọn Select Data -> tại mục Chart data range, chỉnh $D$9 thành $D$19
+C. Chọn sheet Carriers and Coolers -> chọn đồ thị -> chọn Design -> chọn Select Data -> tại mục Chart data range, chỉnh $D$9 thành $D$19
+D. Chọn sheet Carriers and Coolers -> chọn đồ thị -> chọn Design -> tại mục Chart data range, chỉnh $D$9 thành $D$19
+ANSWER: C
+2.2. On the Carriers and Coolers worksheet, link the contents in cell C10, C11, and C12 to cell A4 on the Tackle worksheet.
+A. Chọn sheet Carriers and Coolers -> chọn C10, C11, C12 -> chọn Insert -> chọn Hyperlink -> chọn Place in This Document -> chọn Tackle -> nhập A4 -> nhấn OK
+B. Chọn sheet Carriers and Coolers -> chọn C10, C11, C12 -> chọn Insert -> chọn Hyperlink -> chọn Tackle -> nhập A4 -> nhấn OK
+C. Chọn sheet Carriers and Coolers -> chọn C10, C11, C12 -> chọn Hyperlink -> chọn Place in This Document -> chọn Tackle -> nhập A4 -> nhấn OK
+D. chọn C10, C11, C12 -> chọn Insert -> chọn Hyperlink -> chọn Place in This Document -> chọn Tackle -> nhập A4 -> nhấn OK
+ANSWER: A
+4.2. Simultaneously remove all duplicate records in the Wired Networks table in the Hardware worksheet.
+A. Đặt trỏ chuột tại ô bất kỳ -> chọn Data -> chọn Remove Duplicates -> nhấn OK
+B. Đặt trỏ chuột tại ô bất kỳ thuộc bảng Wired Networks -> chọn Data -> chọn Remove Duplicates -> nhấn OK
+C. Đặt trỏ chuột tại ô bất kỳ thuộc bảng Wired Networks -> chọn Remove Duplicates -> nhấn OK
+D. Chọn Data -> chọn Remove Duplicates -> nhấn OK
+ANSWER: B
+1.3. Copy the contents of the New Inventory worksheet and put it in the table on the Boats worksheet beginning in cell A6.
+A. Chọn vùng ô A2:D9 trên sheet New Inventory -> chọn Copy -> chọn sheet Boats, chọn ô A6 -> chọn Home -> nhấn Paste
+B. Chọn vùng ô A2:D9 trên sheet New Inventory -> chọn Home -> chọn Copy -> chọn sheet Boats, chọn ô A6 -> chọn Home -> nhấn Paste
+C. Chọn vùng ô A2:D9 trên sheet Boats -> chọn Copy -> chọn sheet Boats, chọn ô A6 -> chọn Home -> nhấn Paste
+D. Chọn vùng ô A2:D9 trên sheet Boats -> chọn Home -> chọn Copy -> chọn sheet Boats, chọn ô A6 -> chọn Home -> nhấn Paste
+ANSWER: B
+6.1. Enable the Total Row for the table located on the Qtr 1 worksheet.
+A. Chọn một ô bất kỳ thuộc bảng trong sheet Qtr 1 -> chọn Design -> chọn Total Row
+B. Chọn một ô bất kỳ thuộc bảng trong sheet Qtr 1 -> chọn Total Row
+C. Chọn một ô bất kỳ thuộc bảng trong sheet Qtr 2 -> chọn Design -> chọn Total Row
+D. Chọn một ô bất kỳ thuộc bảng trong sheet Qtr 2 -> chọn Total Row
+ANSWER: A
+6.3. On the Qtr 1 worksheet, use the data contained only in the Trail, Jan, Feb and Mar columns to create a 3-D Clustered Column chart. Do not include Total data. Position the new chart to the right of the table.
+A. Quét chọn vùng ô A9:D14 của sheet Qtr 1 -> chọn Insert -> chọn 3-D Clustered Column -> di chuyển đồ thị đặt nằm bên phải của bảng dữ liệu
+B. Quét chọn vùng ô A9:D14 của sheet Qtr 1 -> chọn Insert -> chọn 3-D Column -> chọn 3-D Clustered Column -> di chuyển đồ thị đặt nằm bên phải của bảng dữ liệu
+C. Quét chọn vùng ô A9:D14 của sheet Qtr 1 -> chọn 3-D Column -> chọn 3-D Clustered Column -> di chuyển đồ thị đặt nằm bên phải của bảng dữ liệu
+D. Quét chọn vùng ô A9:D14 của sheet Qtr 1 -> chọn Insert -> chọn 3-D Column -> chọn 3-D Clustered Column
+ANSWER: A
+7.4. On the Employee Bonuses worksheet, disable the headings on the Rates table.
+A. Chọn một ô bất kỳ thuộc bảng Rates trong sheet Employee Bonuses -> chọn Design -> bỏ chọn Head Row
+B. Chọn một ô bất kỳ thuộc bảng Rates trong sheet Employee Bonuses -> chọn Design -> bỏ chọn Column Heading
+C. Chọn một ô bất kỳ thuộc bảng Rates trong sheet Employee Bonuses -> chọn Design -> bỏ chọn Header Row
+D. Chọn một ô bất kỳ thuộc bảng Rates trong sheet Employee Bonuses -> chọn Design -> bỏ chọn Heading Row
+ANSWER: C
+1.1. Beginning at cell A16 on Sheet1, import the list from the comma delimited source file MoreToys.csv located in the GMetrixTemplates folder. (Accept all other defaults)
+A. Chọn Sheet 1 -> Chọn ô A16 -> Chọn thẻ Data -> Chọn Get External Data -> tìm thư mục GmetrixTemplates -> chọn MoreToys.csv -> chọn Import -> nhấn Next -> nhấn Finish
+B. Chọn Sheet 1 -> Chọn ô A16 -> Chọn thẻ Data -> Chọn Get External Data -> chọn From Text -> tìm thư mục GmetrixTemplates -> chọn MoreToys.csv -> chọn Import -> nhấn Next -> chọn Comma -> nhấn Next -> nhấn Finish -> nhấn OK
+C. Chọn Sheet 1 -> Chọn ô A16 -> Chọn thẻ Data -> Chọn Get External Data -> chọn From Text -> tìm thư mục GmetrixTemplates -> chọn MoreToys.csv -> chọn Import -> nhấn Next -> nhấn Finish -> nhấn OK
+D. Chọn Sheet 1 -> Chọn ô A16 -> Chọn thẻ Data -> chọn From Text -> tìm thư mục GmetrixTemplates -> chọn MoreToys.csv -> chọn Import -> nhấn Next -> nhấn Next -> nhấn Finish -> nhấn OK
+ANSWER: B
+3.3. In cell B28 on the Profits worksheet, insert a formula that displays the number of Sales greater than 250.
+A. Chọn sheet Profits -> chọn ô B28 -> nhập công thức =Count(D4:D26,">250") -> nhấn Enter
+B. Chọn sheet Profits -> chọn ô B28 -> nhập công thức =Countif(D4:D26,"250") -> nhấn Enter
+C. Chọn sheet Profits -> chọn ô B28 -> nhập công thức =Countif(D4:D26,">250") -> nhấn Enter
+D. Chọn sheet Profits -> chọn ô B28 -> nhập công thức =Countif(D4:D26, >250) -> nhấn Enter
+ANSWER: C
+7.1. Use Autofill to copy the formula in cell H4 to calculate the Total Compensation for each employee in the Bonuses table.
+A. Chọn vùng ô H4:H11 trong sheet Employee Bonuses -> chọn Fill -> chọn Down
+B. Chọn vùng ô H4:H11 trong sheet Employee Bonuses -> chọn Home -> chọn Fill
+C. Chọn vùng ô H4:H11 trong sheet Employee Bonuses -> chọn Home -> chọn Fill -> chọn Down
+D. Chọn vùng ô H4:H11 trong sheet Employee Bonuses -> chọn Home -> chọn Down
+ANSWER: C
+5.4. On the Q1 Sales worksheet, insert a function in cell B19 that calculates all sales from the Total column.
+A. Tại ô B19 của sheet Q1 Sales -> nhập công thức =Countif(F4:F17) -> nhấn Enter
+B. Tại ô B19 của sheet Q1 Sales -> nhập công thức =Sum(F4:F17) -> nhấn Enter
+C. Tại ô B19 của sheet Q1 Sales -> nhập công thức =Count(F4:F17) -> nhấn Enter
+D. Tại ô B19 của sheet Q1 Sales -> nhập công thức =Sumif(F4:F17) -> nhấn Enter
+ANSWER: B
+3.1. Simultaneously replace all occurrences of the word Choco with Chocolate in the workbook.
+A. Chọn Home -> chọn Find & Select -> tại mục Find what: nhập Choco, tại mục Replace with: nhập Chocolate -> chọn Options, tại mục within, chọn Workbook -> nhấn Replace All -> nhấn Close
+B. Chọn Home -> chọn Find & Select -> chọn Replace -> tại mục Find what: nhập Choco, tại mục Replace with: nhập Chocolate -> nhấn Replace All -> nhấn Close
+C. Chọn Home -> chọn Find & Select -> chọn Replace -> tại mục Find what: nhập Choco, tại mục Replace with: nhập Chocolate -> chọn Options, tại mục within, chọn Workbook -> nhấn Replace -> nhấn Close
+D. Chọn Home -> chọn Find & Select -> chọn Replace -> tại mục Find what: nhập Choco, tại mục Replace with: nhập Chocolate -> chọn Options, tại mục within, chọn Workbook -> nhấn Replace All -> nhấn Close
+ANSWER: D
+2.5. Copy only the Carriers and Coolers worksheet into a new workbook. Save it in the GMetrixTemplates folder as Inventory Report.xlsx. Close the new workbook before proceeding.
+A. Chuột phải trên sheet Carriers and Coolers tại thanh sheetTab -> chọn Move and Copy ... -> tại mục To book, chọn (new book) -> chọn mục Create a copy -> nhấn OK -> chọn File -> chọn Save -> chọn thư mục GmetrixTemplates -> tại mục File name, nhập Inventory Report.xlsx -> nhấn Save -> nhấn Close ở góc trên bên phải màn hình để đóng file
+B. Chuột phải trên sheet Carriers and Coolers tại thanh sheetTab -> chọn Move and Copy ... -> tại mục To book, chọn (new book) -> chọn mục Create a copy -> nhấn OK -> chọn File -> chọn Save -> chọn thư mục GmetrixTemplates -> tại mục File name, nhập Inventory Report.xlsx -> nhấn Save
+C. Chuột phải trên sheet Carriers and Coolers tại thanh sheetTab -> chọn Move and Copy ... -> tại mục To book, chọn (new book) -> chọn mục Create a copy -> nhấn OK -> chọn File -> chọn Save -> tại mục File name, nhập Inventory Report.xlsx -> nhấn Save -> nhấn Close ở góc trên bên phải màn hình để đóng file
+D. Chuột phải trên sheet Carriers and Coolers tại thanh sheetTab -> chọn Move and Copy ... -> tại mục To book, chọn (new book) -> chọn mục Create a copy -> nhấn OK -> chọn File -> chọn Save -> chọn thư mục GmetrixTemplates -> nhấn Save -> nhấn Close ở góc trên bên phải màn hình để đóng file
+ANSWER: A
+7.5. In cell F4 on the Parts worksheet, insert a line that graphs the trend of sales from Jan through Mar.
+A. Đặt con trỏ tại ô F4 trong sheet Parts -> chọn Insert -> tại group Sparkline, chọn Line -> tại mục Data Range, nhập địa chỉ vùng ô B4:D4
+B. Đặt con trỏ tại ô F4 trong sheet Parts -> chọn Insert -> tại group Sparkline, chọn Line -> tại mục Data Range, nhập địa chỉ vùng ô B4:D4 -> nhấn OK
+C. Đặt con trỏ tại ô F4 trong sheet Parts -> tại group Sparkline, chọn Line -> tại mục Data Range, nhập địa chỉ vùng ô B4:D4 -> nhấn OK
+D. Đặt con trỏ tại ô F4 trong sheet Parts -> chọn Insert -> chọn Line -> tại mục Data Range, nhập địa chỉ vùng ô B4:D4 -> nhấn OK
+ANSWER: B
+4.5. Sort the data in the Wired Networks table. Sort by ProductID, smallest to largest
+A. Đặt con trỏ tại một ô bất kỳ thuộc bảng Wired Networks -> chọn Data -> chọn Sort -> tại mục Sort by: chọn ProductID, tại mục Sort on: chọn Values, tại mục Order: chọn smallest to largest -> nhấn OK
+B. Đặt con trỏ tại một ô bất kỳ thuộc bảng Wired Networks -> chọn Sort -> tại mục Sort by: chọn ProductID, tại mục Sort on: chọn Values, tại mục Order: chọn smallest to largest -> nhấn OK
+C. Chọn Data -> chọn Sort -> tại mục Sort by: chọn ProductID, tại mục Sort on: chọn Values, tại mục Order: chọn smallest to largest -> nhấn OK
+D. Đặt con trỏ tại một ô bất kỳ thuộc bảng Wired Networks -> chọn Data -> tại mục Sort by: chọn ProductID, tại mục Sort on: chọn Values, tại mục Order: chọn smallest to largest -> nhấn OK
+ANSWER: B
+1.4. Reorder the worksheets so Boats is first.
+A. Chuột phải trên sheet Boats tại thanh SheetTab -> chọn Move or Copy ... -> chọn Sheet1 -> nhấn OK
+B. Chuột phải trên sheet Boats tại thanh SheetTab -> tại mục Before sheet -> chọn Sheet1 -> nhấn OK
+C. Chuột phải trên sheet Boats tại thanh SheetTab -> chọn Move or Copy ... -> tại mục Before sheet -> chọn Sheet1 -> nhấn OK
+D. Chuột phải trên sheet Boats tại thanh SheetTab -> chọn Move or Copy ... -> tại mục Before sheet -> nhấn OK
+ANSWER: C
+7.3. On the Parts worksheet, remove the row containing the salesperson named Allen.
+A. Chọn dòng 11 trong sheet Parts -> chuột phải, chọn Remove
+B. Chọn dòng 11 trong sheet Parts -> chuột phải, chọn Delete
+C. Chọn dòng 11 trong sheet Parts -> chọn Delete
+D. Chọn dòng 11 trong sheet Parts -> chọn Remove
+ANSWER: B
+4.3. Beginning at cell A1 on the Hardware worksheet, import the picture file NetworkTopology.png located in the GMetrixTemplates folder.
+A. Chọn ô A1 tại sheet Hardware -> chọn Insert -> chọn Pictures -> tìm, chọn và mở thư mục GmetrixTemplates -> chọn file NetworkTopology.png -> nhấn OK
+B. Chọn ô A1 tại sheet Hardware -> chọn Insert -> chọn Pictures -> tìm, chọn và mở thư mục GmetrixTemplates -> chọn file NetworkTopology.png -> nhấn Insert
+C. Chọn ô A1 tại sheet Hardware -> chọn Insert -> tìm, chọn và mở thư mục GmetrixTemplates -> chọn file NetworkTopology.png -> nhấn Insert
+D. Chọn ô A1 tại sheet Hardware -> chọn Pictures -> tìm, chọn và mở thư mục GmetrixTemplates -> chọn file NetworkTopology.png -> nhấn Insert
+ANSWER: B
+5.2. Add the Subject Equipment Draft to the document properties.
+A. Chọn Info -> chọn Show All Properties -> tại mục Subject -> nhập Equipment Draft
+B. Chọn File -> chọn Info -> chọn Show All Properties -> tại mục Subject -> nhập Equipment Draft
+C. Chọn File -> chọn Info -> chọn Show All Properties -> nhập Equipment Draft
+D. Chọn File -> chọn Show All Properties -> tại mục Subject -> nhập Equipment Draft
+ANSWER: D
+3.5. Modify the chart on the Profits worksheet so the Legend appears at the Top.
+A. Chọn sheet Profits -> chọn đồ thị -> chọn Design -> chọn Add Chart Element -> chọn Top
+B. Chọn sheet Profits -> chọn Design -> chọn Add Chart Element -> chọn Legend -> chọn Top
+C. Chọn sheet Profits -> chọn đồ thị -> chọn Design -> chọn Legend -> chọn Top
+D. Chọn sheet Profits -> chọn đồ thị -> chọn Design -> chọn Add Chart Element -> chọn Legend -> chọn Top
+ANSWER: D
+5.5. In cell B4 on the Q1 Sales worksheet, insert a function that joins Description and Style from the Catalog worksheet, separated by a hyphen. Include a space on both sides of the hyphen. (Example: Cross Country - Hardtail).
+A. Tại ô B4 của sheet Q1 Sales, nhập công thức = Concatenate(D4," - ",B4) -> nhấn Enter (D4 và B4 thuộc sheet Catalog)
+B. Tại ô B4 của sheet Q1 Sales, nhập công thức = Concatenate(D4," - ",B4) -> nhấn Enter (D4 và B4 thuộc sheet Q1 Sales)
+C. Tại ô B4 của sheet Q1 Sales, nhập công thức = Concatenate(D4," - ",C4) -> nhấn Enter (D4 và C4 thuộc sheet Catalog)
+D. Tại ô B4 của sheet Q1 Sales, nhập công thức = Concatenate(D4," - ",C4) -> nhấn Enter (D4 và C4 thuộc sheet Q1 Sales)
+ANSWER: C
+1.2. Change the worksheet tab color of Sheet1 to Blue, Accent 2, Darker 25%.
+A. Chuột phải trên sheet 1 tại thanh SheetTab -> chọn Tab Color -> tại mục Theme Colors -> chọn Blue, Accent 2, Darker 25%
+B. Chuột phải trên sheet 1 tại thanh SheetTab -> tại mục Theme Colors -> chọn Blue, Accent 2, Darker 25%
+C. Chuột phải tại ô A16 của sheet 1 -> tại mục Theme Colors -> chọn Blue, Accent 2, Darker 25%
+D. Chuột phải tại ô A16 của sheet 1 -> chọn Tab Color -> tại mục Theme Colors -> chọn Blue, Accent 2, Darker 25%
+ANSWER: A
+3.2. On the Costs worksheet, repeat the rows containing the company logo and column headings so they appear on all printed pages.
+A. Chọn sheet Costs -> chọn Page Layout -> chọn Page Setup -> tại mục Row to repeate at top, nhập vào $1:$3 -> nhấn OK
+B. Chọn sheet Costs -> chọn Page Layout -> chọn Page Setup -> chọn Sheet -> tại mục Row to repeate at top, nhập vào $1:$3 -> nhấn OK
+C. Chọn sheet Costs -> chọn Page Setup -> chọn Sheet -> tại mục Row to repeate at top, nhập vào $1:$3 -> nhấn OK
+D. Chọn sheet Costs -> chọn Page Layout -> chọn Sheet -> tại mục Row to repeate at top, nhập vào $1:$3 -> nhấn OK
+ANSWER: B
+2.1. Join cells A1:E1 of the Tackle worksheet. Do not change the alignment of the contents.
+A. Chọn sheet Tackle -> chọn mũi tên bên cạnh Merge & Center -> chọn Merge Across
+B. Chọn sheet Tackle -> chọn Home -> chọn Merge & Center
+C. Chọn sheet Tackle -> chọn Home -> chọn mũi tên bên cạnh Merge & Center -> chọn Merge Across
+D. Chọn Home -> chọn mũi tên bên cạnh Merge & Center -> chọn Merge Across
+ANSWER: C
+7.2. Insert a formula into cell G4 on the Employee Bonuses worksheet that evaluates whether the amount in Parts, Accessories, or Services exceed the Quarterly Goal. For each column that exceeds the goal, apply the Quarterly Bonus Rate.
+A. Tại ô G4 của sheet Employee Bonuses nhập công thức =SUMIF(B4:D4,">100000",B4:D4)*$B$17 -> nhấn Enter
+B. Tại ô G4 của sheet Employee Bonuses nhập công thức =COUNT(B4:D4,">100000")*$B$17 -> nhấn Enter
+C. Tại ô G4 của sheet Employee Bonuses nhập công thức =COUNTIF(B4:D4,">100000")*$B$17 -> nhấn Enter
+D. Tại ô G4 của sheet Employee Bonuses nhập công thức =SUM(B4:D4,">100000")*$B$17 -> nhấn Enter
+ANSWER: A
+4.4. On the Hardware worksheet, rotate the text Wired Networks and Wireless Networks to Angle Clockwise.
+A. Chọn ô chứa nội dung văn bản Wired Networks và Wireless Networks trên sheet Hardware -> chọn Home -> chọn Angle Clockwise
+B. Chọn ô chứa nội dung văn bản Wired Networks và Wireless Network trên sheet Hardware -> chọn Orientation -> chọn Angle Clockwise
+C. Chọn Home -> chọn Orientation -> chọn Angle Clockwise
+D. Chọn ô chứa nội dung văn bản Wired Networks và Wireless Network trên sheet Hardware -> chọn Home -> chọn Orientation -> chọn Angle Clockwise
+ANSWER: D
+6.4. On the Qtr 2 worksheet, create a table from cell range A9:E14 by applying Table Style Medium 18. Use the data in row 9 as headers.
+A. Quét chọn vùng ô A9:E14 của sheet Qtr 2 -> chọn Home -> tại mục Medium, chọn Table Style Medium 18 -> nhấn OK
+B. Quét chọn vùng ô A9:E14 của sheet Qtr 2 -> chọn Format as Table -> tại mục Medium, chọn Table Style Medium 18 -> nhấn OK
+C. Quét chọn vùng ô A9:E14 của sheet Qtr 2 -> chọn Home -> chọn Format as Table -> tại mục Medium, chọn Table Style Medium 18 -> nhấn OK
+D. Quét chọn vùng ô A9:E14 của sheet Qtr 2 -> chọn Home -> chọn Format as Table -> tại mục Medium, chọn Table Style Medium 18
+ANSWER: C
+6.2. On the Qtr 1 worksheet, in the Maximum row, insert a formula in column B that returns the greatest number of successful attempts for the month of January.
+A. Tại ô B16 của sheet Qtr 1, nhập công thức =Max(D10:D14) -> nhấn Enter
+B. Tại ô B16 của sheet Qtr 1, nhập công thức =Max(C10:C14) -> nhấn Enter
+C. Tại ô B16 của sheet Qtr 1, nhập công thức =Max(B10:B14) -> nhấn Enter
+D. Tại ô B16 của sheet Qtr 1, nhập công thức =Max(E10:E14) -> nhấn Enter
+ANSWER: C
+2.3. On the Carriers and Coolers worksheet, apply the 3 Flags Icon Set Conditional Formatting to the contents in the Inventory column.
+A. Chọn sheet Carriers and Coolers -> chọn Home -> chọn Conditional Formatting -> chọn Icon Sets -> chọn 3 Flags
+B. Chọn sheet Carriers and Coolers -> chọn cột Inventory -> chọn Conditional Formatting -> chọn Icon Sets -> chọn 3 Flags
+C. Chọn sheet Carriers and Coolers -> chọn cột Inventory -> chọn Home -> chọn Conditional Formatting -> chọn Icon Sets -> chọn 3 Flags
+D. Chọn sheet Carriers and Coolers -> chọn cột Inventory -> chọn Home -> chọn Conditional Formatting -> chọn 3 Flags
+ANSWER: C
+1.5. Hide the New Inventory worksheet
+A. Chọn sheet New Inventory tại thanh SheetTab -> chọn Hide
+B. Chuột phải trên sheet New Inventory tại thanh SheetTab -> chọn Hide
+C. Chọn sheet New Inventory tại thanh SheetTab -> chọn Not visible
+D. Chuột phải trên sheet New Inventory tại thanh SheetTab -> chọn Not visible
+ANSWER: B
+5.1. Configure the Q1 Sales worksheet so rows 1 through 3 remain visible as you scroll vertically.
+A. Chọn Q1 Sales, đặt con trỏ tại dòng số 4 -> chọn View -> chọn Freeze Panes
+B. Đặt con trỏ tại dòng số 4 -> chọn View -> chọn Freeze Panes -> chọn Freeze Panes
+C. Chọn Q1 Sales, đặt con trỏ tại dòng số 4 -> chọn Freeze Panes -> chọn Freeze Panes
+D. Chọn Q1 Sales, đặt con trỏ tại dòng số 4 -> chọn View -> chọn Freeze Panes -> chọn Freeze Panes
+ANSWER: D
+6.5. Apply Style 3 to the pie chart on the Qtr 2 worksheet.
+A. Chọn Design -> tại mục Chart Styles -> chọn Style 3
+B. Chọn đồ thị trong sheet Qtr 2 -> tại mục Chart Styles -> chọn Style 3
+C. Chọn đồ thị trong sheet Qtr 2 -> chọn Design -> chọn Style 3
+D. Chọn đồ thị trong sheet Qtr 2 -> chọn Design -> tại mục Chart Styles -> chọn Style 3
+ANSWER: D
+4.1. Add a new worksheet named Customers to the workbook.
+A. Nhấn chuột trái vào biểu tượng + trên thanh sheetTab -> chọn Rename -> nhập tên mới Customers
+B. Nhấn chuột trái vào biểu tượng + trên thanh sheetTab -> chuột phải trên sheet mới -> chọn Rename -> nhập tên mới Customers
+C. Nhấn chuột trái vào biểu tượng - trên thanh sheetTab -> chuột phải trên sheet mới -> chọn Rename -> nhập tên mới Customers
+D. Nhấn chuột trái vào biểu tượng - trên thanh sheetTab -> chọn Rename -> nhập tên mới Customers
+ANSWER: B
+5.3. Configure Excel to always print cell range A1:F17 on the Q1 Sales worksheet.
+A. Tại sheet Q1 Sales, chọn vùng ô A1:F17 -> chọn Page Layout -> chọn Print Area -> chọn Set Print Area
+B. Tại sheet Q1 Sales, chọn vùng ô A1:F17 -> chọn Print Area -> chọn Set Print Area
+C. Tại sheet Q1 Sales, chọn vùng ô A1:F17 -> chọn Page Layout -> chọn Set Print Area
+D. Chọn vùng ô A1:F17 -> chọn Page Layout -> chọn Print Area -> chọn Set Print Area
+ANSWER: A
+3.4. Modify the chart on the Profits worksheet so the Flavors are displayed as Horizontal Axis Labels and Expense and Income are the Legend Series.
+A. Chọn sheet Profits -> chọn đồ thị -> chọn Design -> chọn Switch Row / Column
+B. Chọn sheet Profits -> chọn Design -> chọn Switch Row / Column
+C. Chọn sheet Profits -> chọn đồ thị -> chọn Switch Row / Column
+D. Chọn đồ thị -> chọn Design -> chọn Switch Row / Column
+ANSWER: A
